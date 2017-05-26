@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.haagendazs.id.app"
+        id        = "com.haagendazs.splash.app"
         version   = "1.0.0">
 
-    <name>Haägen Dazs</name>
+    <name>tes splash</name>
 
     <description>
 		Haagen Dasz Indonesia Official Mobile Apps.
